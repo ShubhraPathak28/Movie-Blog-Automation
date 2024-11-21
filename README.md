@@ -1,9 +1,7 @@
-# Find-Movie-Similarity-from-Plot-Summaries
-NLP and clustering on movie plot summaries from IMDb and Wikipedia to quantify movie similarity.
+# Find Movie Similarity from Plot Summaries
+Utilizing NLP and clustering techniques to assess movie similarities based on plot summaries sourced from IMDb and Wikipedia.
 
 # Project Description
-Natural Language Processing (NLP) is an exciting field of study for data scientists where they develop algorithms that can make sense out of conversational language used by humans. In this Project, you will use NLP to find the degree of similarity between movies based on their plots available on IMDb and Wikipedia.
+Natural Language Processing (NLP) is a fascinating domain where data scientists create algorithms to interpret and analyze human language. In this project, you'll apply NLP methods to determine the similarity between movies using their plot summaries extracted from IMDb and Wikipedia.  
 
-The dataset contains the titles of the top 100 movies on IMDb as well as each movie's plot summary from both IMDb and Wikipedia.
-
-This project by DataCamp
+The dataset includes the titles and plot summaries of IMDb's top 100 movies, sourced from both IMDb and Wikipedia.
